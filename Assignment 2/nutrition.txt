@@ -1,0 +1,12 @@
+182 Bananas 94 20 3 22
+903 Apple 52 44 2 14
+109 Grapes 114 15 1 28
+710 Beef 250 0 35 20
+131 Milk 90 12 7 4
+903 Apple 52 44 2 14
+412 Carrots 25 0 3 4
+710 Beef 250 0 35 20
+121 Cheese 110 2 9 1
+605 Strawberries 46 24 1 11
+710 Beef 250 0 35 20
+219 Peaches 42 9 0 11

@@ -1,0 +1,12 @@
+182 Bananas 3.25
+903 Apple 2.43
+109 Grapes 3.54
+710 Meat Steak 3.3 1.0
+131 Dairy Milk 2.4 1.5
+903 Apple 2.43
+412 Carrots 4.36
+710 Meat Roast Beef 4.0 2.2
+121 Cheese 7.04
+605 Strawberries 4.89
+710 Meat Sausages 2.4 2.8
+219 Peaches 3.21
